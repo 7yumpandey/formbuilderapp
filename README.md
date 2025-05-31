@@ -53,3 +53,17 @@ A **React Remix** based dynamic form builder that empowers users to visually cre
 ```bash
 git clone https://github.com/your-username/dynamic-form-builder.git
 cd dynamic-form-builder
+### 2️⃣ Install dependencies
+bash
+Copy
+Edit
+npm install
+# or
+yarn install
+###3️⃣ Start the development server
+bash
+Copy
+Edit
+npm run dev
+# or
+yarn dev
